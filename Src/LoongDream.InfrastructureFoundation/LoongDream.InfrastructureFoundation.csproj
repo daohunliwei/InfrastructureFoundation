@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>旧梦纷飞</Authors>
+    <Company>旧梦</Company>
+    <Product>旧梦</Product>
+    <Description>为了日常方便</Description>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoongDream.InfrastructureFoundation", "..\Src\LoongDream.InfrastructureFoundation\LoongDream.InfrastructureFoundation.csproj", "{CE9A27FC-E2B9-4E02-A70A-AF8A2327DEEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{4A07FD8F-C24B-41B1-BCE5-A23CF796D591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9A27FC-E2B9-4E02-A70A-AF8A2327DEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9A27FC-E2B9-4E02-A70A-AF8A2327DEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9A27FC-E2B9-4E02-A70A-AF8A2327DEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9A27FC-E2B9-4E02-A70A-AF8A2327DEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA51723E-05B0-4C8F-9116-C9A7C7442D3A}
+	EndGlobalSection
+EndGlobal
