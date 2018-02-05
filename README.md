@@ -1,0 +1,2 @@
+# InfrastructureFoundation
+自用项目多是混用了不同的基础脚手架，抽出来做一个统一的控制吧
